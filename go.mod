@@ -3,7 +3,6 @@ module git-codecommit.eu-west-1.amazonaws.com/v1/repos/banking-coreservices-auth
 go 1.15
 
 require (
-	git-codecommit.eu-west-1.amazonaws.com/v1/repos/banking-common.git v0.0.0-20210126143400-ebdc0a04a37d
 	github.com/Netflix/go-env v0.0.0-20210215222557-e437a7e7f9fb
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/andybalholm/brotli v1.0.1 // indirect
